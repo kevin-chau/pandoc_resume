@@ -1,21 +1,53 @@
 <style type="text/css">
-
 h1 {
-  font-family: "Canela Deck";
-  text-align: center;
-  font-weight: bold;
-  font-size: 20px;
-  color: black; }
-
+    font-family: "Canela Deck";
+    font-size: 20pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0pt;
+    margin-bottom: 4pt;
+}
 h2 {
-  font-family: "Canela Text";
-  text-align: center;
-  font-size: 11px;
-  color: black; }
-
+    font-family: "Canela Text";
+    font-size: 11pt;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+}
 h3 {
-  font-family: "Canela Text";
-  font-weight: bold;
-  font-size: 11px; }
-  
+    font-family: "Canela Text";
+    font-size: 11pt;
+    font-weight: bold;
+    margin-top: 9pt;
+    margin-bottom: 2pt;
+}
+h4 {
+    font-family: "Canela Text";
+    font-size: 11pt;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+}
+h5 {
+    font-family: "Canela Text";
+    text-align: center;
+    font-size: 11pt;
+    font-weight: normal;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    font-style: normal;
+}
+body {
+    font-family: "Canela Text";
+    font-size: 11pt;
+
+}
+p {
+    margin-top: 0pt;
+    margin-bottom: 8pt;
+}
+br {
+    margin-top: 0pt;
+    margin-bottom: 8pt; 
+}
 </style>
